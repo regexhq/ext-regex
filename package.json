@@ -1,0 +1,43 @@
+{
+  "name": "ext-regex",
+  "description": "Regular expression for matching file extensions.",
+  "version": "0.2.0",
+  "homepage": "https://github.com/jonschlinkert/ext-regex",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/ext-regex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/ext-regex/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/ext-regex/blob/master/LICENSE-MIT"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "keywords": [
+    "expression",
+    "ext",
+    "extension",
+    "extname",
+    "file",
+    "filepath",
+    "fs",
+    "match",
+    "path",
+    "regex",
+    "regexp",
+    "regular",
+    "test"
+  ]
+}
