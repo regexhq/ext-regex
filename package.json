@@ -1,22 +1,22 @@
 {
   "name": "ext-regex",
-  "description": "Regular expression for matching file extensions.",
-  "version": "0.2.1",
-  "homepage": "https://github.com/jonschlinkert/ext-regex",
+  "description": "Regular expression for matching file extensions. Matches single and/or multiple file extensions, like `.min.js`.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/regexps/ext-regex",
   "author": {
     "name": "Jon Schlinkert",
     "url": "https://github.com/jonschlinkert"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jonschlinkert/ext-regex.git"
+    "url": "git://github.com/regexps/ext-regex.git"
   },
   "bugs": {
-    "url": "https://github.com/jonschlinkert/ext-regex/issues"
+    "url": "https://github.com/regexps/ext-regex/issues"
   },
   "license": {
     "type": "MIT",
-    "url": "https://github.com/jonschlinkert/ext-regex/blob/master/LICENSE-MIT"
+    "url": "https://github.com/regexps/ext-regex/blob/master/LICENSE-MIT"
   },
   "main": "index.js",
   "engines": {
